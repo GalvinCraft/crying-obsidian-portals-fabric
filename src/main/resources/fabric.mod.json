@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "crying-obsidian-portals",
+	"version": "${version}",
+	"name": "Crying Obsidian Portals",
+	"description": "Crying Obsidian Portals is a mod that allows you to create nether portals using crying obsidian.",
+	"authors": [
+		"GalvinPython"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/cryingportals",
+		"sources": "https://github.com/GalvinCraft/crying-obsidian-portals-fabric"
+	},
+	"license": "MIT",
+	"icon": "assets/crying-obsidian-portals/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.imgalvin.cop.CryingObsidianPortals"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
