@@ -5,9 +5,6 @@ Crying (Obsidian) Portals is a mod that allows you to create nether portals usin
 
 ![Demonstration](https://raw.githubusercontent.com/GalvinCraft/crying-obsidian-portals-fabric/main/.github/assets/javaw_JheUovCevb.png)
 
-# Usage
-Use the `/findplayer` command and enter the player's name. There is also a dropdown of players, so you don't have to type it in full and can use autocomplete!
-
 # Compatible Versions
 | Mod Version | Game Version(s) | Mod Version Title |
 |-------------|-----------------|-------------------|
